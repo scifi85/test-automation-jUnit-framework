@@ -1,4 +1,4 @@
-# E-commerce-Test-JUnit-Framework
+# E-commerce-Test-Automation-JUnit-Framework
 This is an java example of Test Automation Framework for e-commerce app.
 
 Used technologies, tools and patterns:
