@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <products ID="1" IsProductActive ="1" productName ="potato" productDescription ="Very big" productPrice ="34" />
+    <products ID="2" IsProductActive ="1" productName ="lemon" productDescription ="Very yellow" productPrice ="14" />
+    <products ID="3" IsProductActive ="1" productName ="orange" productDescription ="Very sweet" productPrice ="9.5" />
+    <products ID="4" IsProductActive ="1" productName ="tomato" productDescription ="Very red" productPrice ="12.75" />
+    <products ID="5" IsProductActive ="1" productName ="banana" productDescription ="Very fresh" productPrice ="42.95" />
+    <products ID="6" IsProductActive ="1" productName ="cabbage" productDescription ="Very fresh" productPrice ="27" />
+    <products ID="7" IsProductActive ="1" productName ="carrot" productDescription ="Very long" productPrice ="17" />
+    <products ID="8" IsProductActive ="1" productName ="onion" productDescription ="Very bitter" productPrice ="10" />
+    <products ID="9" IsProductActive ="1" productName ="strawberry" productDescription ="Very sweet" productPrice ="50" />
+    <products ID="10" IsProductActive ="1" productName ="raspberries" productDescription ="Very useful" productPrice ="50" />
+
+</dataset>

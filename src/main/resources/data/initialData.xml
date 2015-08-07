@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <roles id ="1" RoleName="Administrator"/>
+    <roles id ="2" RoleName="Merchandiser"/>
+    <roles id ="3" RoleName="Supervisor"/>
+    <roles id ="4" RoleName="Customer"/>
+
+    <CustomerTypes id="1" Discount="0" MaxRange="1000" MinRange="0" TypeName="Standart"/>
+    <CustomerTypes id="2" Discount="0" MaxRange="3000" MinRange="1000" TypeName="Silver"/>
+    <CustomerTypes id="3" Discount="0" MaxRange="10000" MinRange="3000" TypeName="Gold"/>
+    <CustomerTypes id="4" Discount="0" MinRange="10000" TypeName="Platinum"/>
+
+    <Regions id="1" RegionName="North"/>
+    <Regions id="2" RegionName="East"/>
+    <Regions id="3" RegionName="South"/>
+    <Regions id="4" RegionName="West"/>
+    <Regions id="5" RegionName="Center"/>
+
+</dataset>

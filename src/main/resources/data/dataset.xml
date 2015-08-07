@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--test-->
+<dataset>
+
+    <Products ID="1" IsProductActive = "1" ProductDescription = "description" ProductName = "product1" ProductPrice = "100"/>
+
+
+    <Orders  ID="1" DeliveryDate = "2015-06-01 21:05:28" IsGift = "" MaxDiscount = "0" OrderDate = "2015-06-01 21:05:28" OrderName = "order1" OrderNumber = "1" PreferableDeliveryDate = "2015-06-25 21:05:28" TotalPrice = "100" Assigne = "2" Customer = "4" OrderStatusRef = "1"/>
+
+
+    <OrderItems  ID="1" Cost = "100" ItemPrice = "100" Quantity = "1" DimensionRef = "1" OrderRef = "1" ProductRef = "1"/>
+
+
+</dataset>

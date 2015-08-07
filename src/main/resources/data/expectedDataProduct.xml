@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <products IsProductActive ="1" productName ="Test Product" productDescription ="Function test" productPrice ="65" />
+
+</dataset>

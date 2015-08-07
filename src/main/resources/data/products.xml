@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+        <Products
+               ID = "1"
+               ProductName = "table" 
+               ProductDescription = "brown"
+               ProductPrice = "800.0"
+               IsProductActive = "1"
+                />
+                
+        <Products
+               ID = "2"
+               ProductName = "chair" 
+               ProductDescription = "black"
+               ProductPrice = "500.0"
+               IsProductActive = "1"
+                />
+     
+</dataset>
